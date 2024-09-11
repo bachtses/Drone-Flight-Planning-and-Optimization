@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:wpml="http://www.dji.com/wpmz/1.0.0">
+<Document>
+<wpml:missionConfig>
+<wpml:flyToWaylineMode>safely</wpml:flyToWaylineMode>
+<wpml:finishAction>goHome</wpml:finishAction>
+<wpml:exitOnRCLost>executeLostAction</wpml:exitOnRCLost>
+<wpml:executeRCLostAction>goBack</wpml:executeRCLostAction>
+<wpml:takeOffSecurityHeight>0</wpml:takeOffSecurityHeight>
+<wpml:globalTransitionalSpeed>5</wpml:globalTransitionalSpeed>
+<wpml:droneInfo>
+<wpml:droneEnumValue>0</wpml:droneEnumValue>
+<wpml:droneSubEnumValue>0</wpml:droneSubEnumValue>
+</wpml:droneInfo>
+<wpml:payloadInfo>
+<wpml:payloadEnumValue>0</wpml:payloadEnumValue>
+<wpml:payloadSubEnumValue>0</wpml:payloadSubEnumValue>
+<wpml:payloadPositionIndex>0</wpml:payloadPositionIndex>
+</wpml:payloadInfo>
+</wpml:missionConfig>
+<Folder>
+<wpml:templateType>waypoint</wpml:templateType>
+<wpml:templateId>0</wpml:templateId>
+<wpml:waylineCoordinateSysParam>
+<wpml:coordinateMode>WGS84</wpml:coordinateMode>
+<wpml:heightMode>relativeToStartPoint</wpml:heightMode>
+<wpml:positioningType>GPS</wpml:positioningType>
+</wpml:waylineCoordinateSysParam>
+<wpml:autoFlightSpeed>4.543</wpml:autoFlightSpeed>
+<wpml:globalHeight>30.000</wpml:globalHeight>
+<wpml:caliFlightEnable>0</wpml:caliFlightEnable>
+<wpml:gimbalPitchMode>usePointSetting</wpml:gimbalPitchMode>
+<wpml:globalWaypointHeadingParam>
+<wpml:waypointHeadingMode>followWayline</wpml:waypointHeadingMode>
+<wpml:waypointHeadingAngle>0</wpml:waypointHeadingAngle>
+<wpml:waypointPoiPoint>0.000000,0.000000,0.000000</wpml:waypointPoiPoint>
+</wpml:globalWaypointHeadingParam>
+<wpml:globalWaypointTurnMode>toPointAndStopWithDiscontinuityCurvature</wpml:globalWaypointTurnMode>
+<wpml:globalUseStraightLine>0</wpml:globalUseStraightLine>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.998944555176579,40.566535201554182
+        </coordinates>
+        </Point>
+        <wpml:index>0</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>0</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.998981393987299,40.566531333318579
+        </coordinates>
+        </Point>
+        <wpml:index>1</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.999091967949811,40.566545959143059
+        </coordinates>
+        </Point>
+        <wpml:index>2</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+        <Placemark>
+        <Point>
+        <coordinates>
+        22.999067518973341,40.566653455603258
+        </coordinates>
+        </Point>
+        <wpml:index>3</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.998941197324403,40.566636746798125
+        </coordinates>
+        </Point>
+        <wpml:index>4</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.999085334260688,40.566473387002413
+        </coordinates>
+        </Point>
+        <wpml:index>5</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.999039421664896,40.566675253828653
+        </coordinates>
+        </Point>
+        <wpml:index>6</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.998903988168726,40.566632311753645
+        </coordinates>
+        </Point>
+        <wpml:index>7</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+    <Placemark>
+        <Point>
+        <coordinates>
+        22.998918916558346,40.566566675843334
+        </coordinates>
+        </Point>
+        <wpml:index>8</wpml:index>
+        <wpml:ellipsoidHeight>30.000</wpml:ellipsoidHeight>
+        <wpml:height>30.000</wpml:height>
+        <wpml:useGlobalHeight>0</wpml:useGlobalHeight>
+        <wpml:useGlobalSpeed>1</wpml:useGlobalSpeed>
+        <wpml:useGlobalHeadingParam>1</wpml:useGlobalHeadingParam>
+        <wpml:useGlobalTurnParam>1</wpml:useGlobalTurnParam>
+        <wpml:gimbalPitchAngle>-70</wpml:gimbalPitchAngle>
+        <wpml:useStraightLine>0</wpml:useStraightLine>
+    </Placemark>
+</Folder>
+</Document>
+</kml>

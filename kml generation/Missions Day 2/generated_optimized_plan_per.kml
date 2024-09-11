@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Optimized Mission</name>
+    <Placemark>
+      <name>takeoff (ID: 1)</name>
+      <Point>
+        <coordinates>22.999,40.566568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>polygon waypoint (ID: 2)</name>
+      <Point>
+        <coordinates>22.999114,40.566428,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>polygon waypoint (ID: 3)</name>
+      <Point>
+        <coordinates>22.999322,40.566321,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>polygon waypoint (ID: 6)</name>
+      <Point>
+        <coordinates>22.999338,40.566645,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>polygon waypoint (ID: 4)</name>
+      <Point>
+        <coordinates>22.999772,40.566176,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>polygon waypoint (ID: 5)</name>
+      <Point>
+        <coordinates>23.000124,40.566677,60</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>land (ID: 7)</name>
+      <Point>
+        <coordinates>22.999,40.566568,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

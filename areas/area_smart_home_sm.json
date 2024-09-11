@@ -1,0 +1,23 @@
+{
+    "mission": {
+        "name": "Area of Surveillance",
+        "waypoints": [
+            {
+                "latitude": 40.566568, 
+                "longitude": 22.999000
+            },
+            {
+                "latitude": 40.566436, 
+                "longitude": 22.999024
+            },
+            {
+                "latitude": 40.566345, 
+                "longitude": 22.999062
+            },
+            {
+                "latitude": 40.566481, 
+                "longitude": 22.999118
+            }
+        ]
+    }
+}

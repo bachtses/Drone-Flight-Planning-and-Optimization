@@ -1,0 +1,55 @@
+{
+    "mission": {
+        "name": "Area of Surveillance",
+        "waypoints": [
+            {
+                "latitude": 40.56818,
+                "longitude": 22.997673
+            },
+            {
+                "latitude": 40.568258,
+                "longitude": 22.998075
+            },
+            {
+                "latitude": 40.568929,
+                "longitude": 22.99907
+            },
+            {
+                "latitude": 40.570314,
+                "longitude": 23.000111
+            },
+            {
+                "latitude": 40.573643,
+                "longitude": 22.999118
+            },
+            {
+                "latitude": 40.572261,
+                "longitude": 22.997989
+            },
+            {
+                "latitude": 40.572794,
+                "longitude": 22.996203
+            },
+            {
+                "latitude": 40.572042,
+                "longitude": 22.994957
+            },
+            {
+                "latitude": 40.571715,
+                "longitude": 22.992743
+            },
+            {
+                "latitude": 40.56823,
+                "longitude": 22.996086
+            },
+            {
+                "latitude": 40.568555,
+                "longitude": 22.9975853
+            },
+            {
+                "latitude": 40.56818,
+                "longitude": 22.997673
+            }
+        ]
+    }
+}
